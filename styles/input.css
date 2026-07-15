@@ -1,10 +1,7 @@
 @import "tailwindcss";
 
-.collapse-menu{
-
-
-
-
-    width: 100%;
-    padding: 10px 20px;
+@theme {
+    --color-surface: #fefefe;
+    --color-surface-secondary: #fcfcfe;
+    --color-gray-custom: #1d2433;
 }
