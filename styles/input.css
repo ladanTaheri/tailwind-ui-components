@@ -5,3 +5,5 @@
     --color-surface-secondary: #fcfcfe;
     --color-gray-custom: #1d2433;
 }
+
+@custom-variant dark (&:where(.dark, .dark *));
